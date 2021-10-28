@@ -12,11 +12,15 @@ The purpose of this analysis is to evaluate the results of crowdfunding campaign
 
 ### Analysis of Outcomes Based on Launch Date
 
-This analysis involved creating a pivot table to display the number of successful outcomes, failed outcomes and canceled outcomes in relation to the month/year the campaign was launched.  This table is in the Kickstarter_Challenge workbook on the tab named “Theater Outcomes by Launch Date.”  Here, the data show the outcomes of theater campaigns per each month of the year in both tabular and graphical formats.  Using the filters for parent category (type of campaign) and years, one can see all campaign outcomes per month for any or all given years.
+This analysis involved creating a pivot table to display the number of successful outcomes, failed outcomes and canceled outcomes in relation to the month/year the campaign was launched.  This table is in the Kickstarter_Challenge workbook on the tab named “Theater Outcomes by Launch Date.”  Here, the data show the outcomes of theater campaigns per each month of the year in both tabular and graphical formats.  Using the filters for parent category (type of campaign) and years, one can see all campaign outcomes per month for any or all given years.  The picture below shows theater outcomes based on their launch date.
+
+![This is a line chart with markers](https://github.com/mshideler/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
-This analysis involved determining the percentage of successful, failed and canceled campaigns for plays per each goal range (for example, for goal amounts less than $1,000 or for goal amounts ranging from $20,000 to $24,999).  This table is also in the Kickstarter_Challenge workbook on the tab named “Outcomes Based on Goals.”  To get the percentage of each campaign outcome, it was necessary to count how many of each outcome fell in each range.  This was done using the COUNTIFS Excel formula and specifying what data to use and what criteria to use.  Summing the outcomes per range results in the number of total projects per range.  The percentage of an outcome per range is simply calculated by dividing quantity of a specific outcome by the total number of projects for a given goal range.
+This analysis involved determining the percentage of successful, failed and canceled campaigns for plays per each goal range (for example, for goal amounts less than $1,000 or for goal amounts ranging from $20,000 to $24,999).  This table is also in the Kickstarter_Challenge workbook on the tab named “Outcomes Based on Goals.”  To get the percentage of each campaign outcome, it was necessary to count how many of each outcome fell in each range.  This was done using the COUNTIFS Excel formula and specifying what data to use and what criteria to use.  Summing the outcomes per range results in the number of total projects per range.  The percentage of an outcome per range is simply calculated by dividing quantity of a specific outcome by the total number of projects for a given goal range.  Charting the resulting data produces the below picture.
+
+![This is a line chart](https://github.com/mshideler/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
