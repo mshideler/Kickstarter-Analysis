@@ -28,17 +28,17 @@ I experienced two challenges for the Outcomes Based on Goals analysis.  The firs
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-One conclusion that can be drawn about the Theater Outcomes by Launch Date is Spring appears to be the ideal time to launch theater campaigns given the spike that occurs from March to May.
+  One conclusion that can be drawn about the Theater Outcomes by Launch Date is Spring appears to be the ideal time to launch theater campaigns given the spike that occurs from March to May.
 
-A second conclusion that can be drawn about the Theater Outcomes by Launch Date is December is a bad month to launch theater campaigns because number of successful campaigns nearly equals the number of failed campaigns during that month.
+  A second conclusion that can be drawn about the Theater Outcomes by Launch Date is December is a bad month to launch theater campaigns because number of successful campaigns nearly equals the number of failed campaigns during that month.
 
 - What can you conclude about the Outcomes based on Goals?
-One conclusion that can be drawn about the Outcomes based on Goals is goals less than $1,000 are the most successful.
+
+  One conclusion that can be drawn about the Outcomes based on Goals is goals less than $1,000 are the most successful.
 
 - What are some limitations of this dataset?
 
-One limitation of this dataset is that it’s limited to plays and not the entire theater category, which includes musical plays and spaces.  Another limitation is plays with a goal of $50,000 aren’t included.  It is unknown if this was done on purpose or if this is just an error.
+  One limitation of this dataset is that it’s limited to plays and not the entire theater category, which includes musical plays and spaces.  Another limitation is plays with a goal of $50,000 aren’t included.  It is unknown if this was done on purpose or if this is just an error.
 
 - What are some other possible tables and/or graphs that we could create?
-One possible table/graph we can create is one that looks at the average length of a campaign depending on the outcome to see if there is a correlation.
-Another possible one we can create is the number of successful campaigns per subcategory of theater and perhaps filter by country.
+  One possible table/graph we can create is one that looks at the average length of a campaign depending on the outcome to see if there is a correlation.  Another possible one we can create is the number of successful campaigns per subcategory of theater and perhaps filter by country.
