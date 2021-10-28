@@ -6,9 +6,7 @@ This project involves analyzing crowdfunding data to help a playwright who wants
 
 ### Purpose
 
-The purpose of this analysis is to evaluate the results of crowdfunding campaigns with respect to when the campaigns were 
-launched and how successful those campaigns were in reaching their donation goals. The data used for this analysis is available 
-on the “Kickstarter” tab in the Kickstarter_Challenge workbook located
+The purpose of this analysis is to evaluate the results of crowdfunding campaigns with respect to when the campaigns were launched and how successful those campaigns were in reaching their donation goals. The data used for this analysis is available on the “Kickstarter” tab in the Kickstarter_Challenge workbook located
 
 ## Analysis and Challenges
 
